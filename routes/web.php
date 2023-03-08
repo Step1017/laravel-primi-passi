@@ -25,3 +25,7 @@ Route::get('/i', function () {
 Route::get('/am', function () {
     return view('am');
 });
+
+Route::get('/iron', function () {
+    return view('iron');
+});
