@@ -61,7 +61,7 @@
                 </div>
                 <div class="row">
                     <div class="col d-flex justify-content-center align-items-center">
-                        <img class="d-block w-50"src="https://preview.redd.it/h2z2encbs3d61.jpg?auto=webp&s=12ee384bcc5fa9716f384fcdccbf1e23a2894b30" alt="i">
+                        <img class="d-block w-50"src="https://preview.redd.it/h2z2encbs3d61.jpg?auto=webp&s=12ee384bcc5fa9716f384fcdccbf1e23a2894b30" alt="am">
                     </div>
                 </div>
             </div>

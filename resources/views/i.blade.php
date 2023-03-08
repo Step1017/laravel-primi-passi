@@ -25,22 +25,22 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="i.blade.php">
+                                <a class="nav-link active" aria-current="page" href="/i">
                                     I
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="am.blade.php">
+                                <a class="nav-link" href="/am">
                                     AM
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="iron.blade.php">
+                                <a class="nav-link" href="/iron">
                                     IRON
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="man.blade.php">
+                                <a class="nav-link" href="/man">
                                     MAN
                                 </a>
                             </li>
