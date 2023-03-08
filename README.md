@@ -2,7 +2,8 @@ Oggi iniziamo a muovere i primi passi con questo fantastico framework che è Lar
 Per prima cosa, creiamo un nuovo progetto Laravel 9, utilizzando questo comando:
 composer create-project laravel/laravel:^9.2 laravel-primi-passi  -> se NON avete già creato la cartella vuota
 o
-composer create-project laravel/laravel:^9.2 . -> se avete già creato la cartella vuota
+composer create-project laravel/laravel:^9.2 . -> se avete già creato la cartella vuota.
+
 Se NON avevate creato la cartella vuota:
 Al termine dell'installazione, entriamo nella cartella del progetto
 cd laravel-primi-passi

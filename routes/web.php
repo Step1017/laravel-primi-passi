@@ -13,6 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+/* 2. Aggiungo la pagina creata in views (home.blade.php) nella route '/' */
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
