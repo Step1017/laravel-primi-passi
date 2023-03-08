@@ -29,3 +29,7 @@ Route::get('/am', function () {
 Route::get('/iron', function () {
     return view('iron');
 });
+
+Route::get('/man', function () {
+    return view('man');
+});
